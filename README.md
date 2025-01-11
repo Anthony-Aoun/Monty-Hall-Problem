@@ -91,7 +91,7 @@ NUM_DOORS = 5     # Number of doors in the game
 This project is licensed under the MIT License.
 
 ## Author
-© 2024 [Anthony Aoun](https://github.com/Anthony-Aoun). All rights reserved.
+© 2025 [Anthony Aoun](https://github.com/Anthony-Aoun). All rights reserved.
 
 This project is open-source and free to use for educational purpouses only.
 
